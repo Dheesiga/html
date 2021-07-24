@@ -1,0 +1,123 @@
+1) home page code: #saved as home.html
+<html>
+    <body bgcolor="blue">
+        <p style="text-align: right;"><a href="contact.html">Contact</a></p>
+        <p style="text-align: right;"><a href="pro.html">Profile</a></p>
+        <h1>Home page</h1>
+        <p>This page is for you to know about mobile phones</p>
+        <p><a href="pdt.html">Products</a></p>
+    </body>
+</html>
+2) Contact page code: #saved as contact.html
+<html>
+    <head>
+        <title>Contact page</title>
+    </head>
+    <body>
+        <h1>Details</h1>
+        <p>Name: Dheesiga</p>
+        <p>email:dheesi31@gmail.com</p>
+    </body>
+</html>
+3) profile page code: #saved as pro.html
+<html>
+    <body>
+        <h3 style="text-align: center;">Profile</h3>
+        <p style="text-align: center;">Profile picture</p>
+        <p style="text-align: center;"><img src="bg.png"></p>
+        <p style="text-align: center;">Name:Kamatchi</p>
+        <p style="text-align: center;">DOB:28.11.1991</p>
+        <p style="text-align: center;">Place:Madurai</p>
+    </body>
+</html>
+4) product page code: #saved as pdt.html
+<html>
+    <body>
+        <p style="text-align: center;"><a href="home.html">Home</a></p>
+        <h1>Products</h1>
+        <form>
+        <p>Select the product to view the details</p>
+        <a href="opn.html"><img src="OnePlus Nord CE 5G.png"></a><br>
+        <h5>One plus nord CE 5G</h5><input type="checkbox"><br><br>
+        <a href="vivo.html"><img src="vivov20.png"></a><br>
+        <h5>Vivo V20</h5><input type="checkbox"><br><br>
+        <a href="red.html"><img src="redmi 9a.png"></a><br>
+        <h5>Redmi 9A</h5><input type="checkbox"><br><br>
+        <a href="sam.html"><img src="sm gal m31.png"></a><br>
+        <h5>Samsung Galaxy M31</h5><input type="checkbox"><br><br>
+        <a href="oppo.html"><img src="oppo reno 6 pro.png"></a><br>
+        <h5>Oppo Reno 6 Pro</h5><input type="checkbox"><br><br>
+        <input type="submit" value="Add to Cart">
+        </form>
+    </body>
+</html>
+i)opn.html:
+<html>
+    <body>
+        <p style="text-align: right;"><a href="products.html">procudts</a></p>
+        <img src="OnePlus Nord CE 5G.png">
+        <p>Name:OnePlus Nord CE 5G<br>
+           Cost: Rs. 27,999<br>
+           Display: 6.43-inch (1080x2400)<br>
+           Processor: Qualcomm Snapdragon 750G<br>
+           Front Camera: 16MP<br>
+           Rear Camera: 64MP + 8MP + 2MP<br>
+           Battery Capacity: 4500mAh</p>
+    </body>
+</html>
+ii)vivo.html:
+<html>
+    <body>
+        <p style="text-align: right;"><a href="products.html">procudts</a></p>
+        <img src="vivov20.png">
+        <p>Name: Vivo V20<br>
+           Cost: Rs. 22,999<br>
+           Display: 6.44-inch (1080x2400)<br>
+           Processor: Qualcomm Snapdragon 730G<br>
+           Front Camera: 44MP<br>
+           Rear Camera: 64MP + 8MP + 2MP<br>
+           Battery Capacity: 4000mAh</p>
+    </body>
+</html>
+iii)red.html:
+<html>
+    <body>
+        <p style="text-align: right;"><a href="products.html">procudts</a></p>
+        <img src="redmi 9a.png">
+        <p>Name: Redmi 9A<br>
+           Cost: Rs. 6,999<br>
+           Display: 6.53-inch (720x1600)<br>
+           Processor: MediaTek Helio G25<br>
+           Front Camera: 5MP<br>
+           Rear Camera: 13MP<br>
+           Battery Capacity: 5000mAh</p>
+    </body>
+</html>
+iv)sam.html:
+<html>
+    <body>
+        <p style="text-align: right;"><a href="products.html">procudts</a></p>
+        <img src="sm gal m31.png">
+        <p>Name: Samsung Galaxy M31<br>
+           Cost: Rs. 16,999<br>
+           Display: 6.40-inch (1080x2340)<br>
+           Processor: Samsung Exynos 9611<br>
+           Front Camera: 32MP<br>
+           Rear Camera: 64MP + 8MP + 5MP + 5MP<br>
+           Battery Capacity: 6000mAh</p>
+    </body>
+</html>
+v)oppo.html:
+<html>
+    <body>
+        <p style="text-align: right;"><a href="products.html">procudts</a></p>
+        <img src="vivov20.png">
+        <p>Name: Vivo V20<br>
+           Cost: Rs. 22,999<br>
+           Display: 6.44-inch (1080x2400)<br>
+           Processor: Qualcomm Snapdragon 730G<br>
+           Front Camera: 44MP<br>
+           Rear Camera: 64MP + 8MP + 2MP<br>
+           Battery Capacity: 4000mAh</p>
+    </body>
+</html>
